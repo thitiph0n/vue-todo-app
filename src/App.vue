@@ -11,7 +11,10 @@
       <v-toolbar-title class="pl-5 text-h4">Todo App</v-toolbar-title>
       <v-spacer></v-spacer>
 
-      <a href="https://github.com/thitiph0n" style="text-decoration: none">
+      <a
+        href="https://github.com/thitiph0n/vue-todo-app"
+        style="text-decoration: none"
+      >
         <v-btn icon>
           <v-icon>mdi-github</v-icon>
         </v-btn></a
